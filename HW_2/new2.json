@@ -1,6 +1,11 @@
 {
-   "myName": "Serhii Khatniuk" ,
-   "age": "29" ,
+   "myName": "Serhii Khatniuk",
+   "age": "29",
    "pet": "Cat",
-   "theSalary": "500$"
+   "theSalary": "500$",
+   "favoritFilm": "Dune",
+   "favoritSerial": "HIMYM",
+   "favoritFood": "BigTasty",
+   "favoritSeason": "Spring",
+   "country" : "USA"
 }
